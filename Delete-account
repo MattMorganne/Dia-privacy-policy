@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Suppression du compte - Dia</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="font-family: sans-serif; max-width: 700px; margin: auto; padding: 20px;">
+  <h1>Suppression du compte - Dia</h1>
+  <p>Vous pouvez supprimer votre compte à tout moment directement depuis l'application Dia.</p>
+
+  <h2>Étapes à suivre :</h2>
+  <ol>
+    <li>Ouvrez l'application Dia</li>
+    <li>Accédez à la section "Gestion du compte"</li>
+    <li>Cliquez sur "Supprimer le compte"</li>
+    <li>Confirmez l'action pour supprimer votre compte et toutes vos données associées</li>
+  </ol>
+
+  <h2>Données supprimées :</h2>
+  <ul>
+    <li>Votre profil utilisateur (nom, bio, préférences, etc.)</li>
+    <li>Photos et contenus que vous avez partagés</li>
+    <li>Historique de messages, likes, et matchs</li>
+    <li>Données stockées dans notre base de données et stockage</li>
+  </ul>
+
+  <p>Une fois le compte supprimé, cette action est <strong>irréversible</strong>.</p>
+
+  <p>Pour toute question ou problème, contactez-nous à <a href="mailto:DiaAkeDatingApp@gmail.com">DiaAkeDatingApp@gmail.com</a>.</p>
+</body>
+</html>
