@@ -1,5 +1,4 @@
 # Dia-privacy-policy
-<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
@@ -58,6 +57,6 @@
   <p>En utilisant Dia, vous acceptez de faire preuve de prudence, notamment lors de rencontres en personne. Nous vous recommandons de rencontrer dans des lieux publics et d’informer un proche. L'équipe de Dia ne saurait être tenue responsable des actes, incidents ou dommages survenus suite à une utilisation de l’application.</p>
 
   <h2>10. Contact</h2>
-  <p>Pour toute question concernant cette politique, vous pouvez nous contacter à : <a href="mailto:contact@diaapp.com">contact@diaapp.com</a></p>
+  <p>Pour toute question concernant cette politique, vous pouvez nous contacter à : <a href="mailto:contact@diaapp.com">DiaAkedating@gmail.com</a></p>
 </body>
 </html>
